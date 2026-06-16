@@ -1,7 +1,32 @@
-# Mi primer documento en Git hub
-## 
-![ Futbol nuevo](
+# 🚀 Panel de Control del Proyecto
 
-/a/tu/imagen.png)
- 
+Bienvenido a la documentación oficial. Aquí encontrarás el estado actual del desarrollo y los componentes clave.
 
+---
+
+## 📷 Vista Previa
+
+Esta es la imagen principal de nuestro proyecto:
+
+![Logotipo del Proyecto](https://unsplash.com)
+
+---
+
+## 📊 Estado de los Módulos
+
+La siguiente tabla muestra las tareas actuales y su progreso:
+
+| Código | Módulo del Sistema | Estado Actual | Prioridad |
+| :--- | :--- | :---: | :---: |
+| **MOD-01** | Autenticación de Usuarios | ✅ Terminado | Alta |
+| **MOD-02** | Pasarela de Pagos | ⏳ En Desarrollo | Alta |
+| **MOD-03** | Notificaciones Push | ❌ Sin Iniciar | Media |
+| **MOD-04** | Reportes en PDF | ✅ Terminado | Baja |
+
+---
+
+## 🛠️ Requisitos Rápidos
+
+* **Servidor:** Node.js v18 o superior.
+* **Base de datos:** PostgreSQL.
+* **Navegador:** Chrome, Firefox o Edge.
