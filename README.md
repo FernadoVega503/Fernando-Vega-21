@@ -3,7 +3,7 @@
 Bienvenido a la documentación oficial. Aquí encontrarás el estado actual del desarrollo y los componentes clave.
 
 ---
-<img https://es.pngtree.com/free-backgrounds-photos/fondo-futbol
+<img> https://es.pngtree.com/free-backgrounds-photos/fondo-futbol
 <img/>
 
 
