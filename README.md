@@ -8,8 +8,7 @@ Bienvenido a la documentación oficial. Aquí encontrarás el estado actual del 
 
 Esta es la imagen principal de nuestro proyecto:
 
-
-##------
+------
 
 ## 📊 Estado de los Módulos
 
