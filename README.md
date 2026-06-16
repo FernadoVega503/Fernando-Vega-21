@@ -8,7 +8,7 @@ Bienvenido a la documentación oficial. Aquí encontrarás el estado actual del 
 
 Esta es la imagen principal de nuestro proyecto:
 
-![Logotipo del Proyecto](https://unsplash.com)
+![Logotipo del Proyecto](C:\Users\PC 06)
 
 ---
 
