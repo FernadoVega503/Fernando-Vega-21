@@ -3,7 +3,7 @@
 Bienvenido a la documentación oficial. Aquí encontrarás el estado actual del desarrollo y los componentes clave.
 
 ---
-![Imagen de Fútbol](https://unsplash.com)
+![Imagen de Fútbol](https://share.google/EnhyC9xTRciElckRV)
 
 
 ## 📷 Vista Previa
