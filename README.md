@@ -1,8 +1,10 @@
-# 🚀 Panel de Control del Proyecto
+#  Panel de Control del Proyecto
 
 Bienvenido a la documentación oficial. Aquí encontrarás el estado actual del desarrollo y los componentes clave.
 
 ---
+![Imagen de Fútbol](https://unsplash.com)
+
 
 ## 📷 Vista Previa
 
