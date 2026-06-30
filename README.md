@@ -9,7 +9,7 @@
   <a href="https://lichess.org/@/tu-usuario"><img src="https://img.shields.io/badge/LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=white"></a>
 </p>
 
-<h1 align="center"> HOLA/&gt;</h1>
+<h1 align="center"> HOLA&gt;</h1>
 
 <p align="center">
 Mi nombre es <b>FERNANDO</b>. Soy un desarrollador apasionado de [tu país]. Mis principales áreas de interés son el desarrollo web y móvil. Actualmente estoy aprendiendo <b>[tecnología]</b>. Aparte de esto, también hago diseño gráfico. En mi tiempo libre disfruto [Escuchar musica] y [Hacer deporte].
