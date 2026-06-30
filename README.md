@@ -12,7 +12,7 @@
 <h1 align="center">Hola </h1>
 
 <p align="center">
-Mi nombre es <b>José Fernando Vega Cruz</b>. Soy un desarrollador apasionado de [tu país]. Mis principales áreas de interés son el desarrollo web y móvil. Actualmente estoy aprendiendo <b>[tecnología]</b>. Aparte de esto, también hago diseño gráfico. En mi tiempo libre disfruto [hobby 1] y [hobby 2].
+Mi nombre es <b>José Fernando Vega Cruz</b>. Soy un desarrollador apasionado de [tu país]. Mis principales áreas de interés son el desarrollo web y móvil. Actualmente estoy aprendiendo <b>[tecnología]</b>. Aparte de esto, también hago diseño gráfico. En mi tiempo libre disfruto [Hacer deporte] y [Escuchar musica].
 </p>
 
 <h2 align="center">Tech Stack</h2>
