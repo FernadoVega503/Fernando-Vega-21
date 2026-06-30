@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=F&fontSize=50&fontColor=ffffff&desc=github.com/tu-usuario%20|%20linkedin.com/in/tu-usuario&descAlignY=70&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Tu%20Nombre&fontSize=50&fontColor=ffffff&desc=github.com/tu-usuario%20|%20linkedin.com/in/tu-usuario&descAlignY=70&descSize=18" />
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
   <a href="https://lichess.org/@/tu-usuario"><img src="https://img.shields.io/badge/LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=white"></a>
 </p>
 
-<h1 align="center">Hola </h1>
+<h1 align="center"> HOLA, &lt; devs /&gt;</h1>
 
 <p align="center">
-Mi nombre es <b>José Fernando Vega Cruz</b>. Soy un desarrollador apasionado de [tu país]. Mis principales áreas de interés son el desarrollo web y móvil. Actualmente estoy aprendiendo <b>[tecnología]</b>. Aparte de esto, también hago diseño gráfico. En mi tiempo libre disfruto [Hacer deporte] y [Escuchar musica].
+Mi nombre es <b>Tu Nombre</b>. Soy un desarrollador apasionado de [tu país]. Mis principales áreas de interés son el desarrollo web y móvil. Actualmente estoy aprendiendo <b>[tecnología]</b>. Aparte de esto, también hago diseño gráfico. En mi tiempo libre disfruto [hobby 1] y [hobby 2].
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -36,5 +36,5 @@ Mi nombre es <b>José Fernando Vega Cruz</b>. Soy un desarrollador apasionado de
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=100&section=footer" />
 </p>
 
-<p align="center">Hecho con ❤️ desde [tu país]</p>
+<p align="center">Hecho por  [FERNANDO VEGA]</p>
 
