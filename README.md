@@ -6,7 +6,7 @@
   <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/CSS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://reddit.com/u/tu-usuario"><img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href="https://lichess.org/@/tu-usuario"><img src="https://img.shields.io/badge/JAVASCRIPTstyle=for-the-badge&logo=lichess&logoColor=yeloow"></a>
+  <a href="https://lichess.org/@/tu-usuario"><img src="https://img.shields.io/badge/JAVASCRIPTstyle=for-the-badge&logo=lichess&logoColor=white"></a>
 </p>
 
 <h1 align="center"> HOLA</h1>
