@@ -12,7 +12,7 @@
 <h1 align="center"> HOLA</h1>
 
 <p align="center">
-Mi nombre es <b>FERNANDO</b>. Soy un desarrollador apasionado de [tu país]. Mis principales áreas de interés son el desarrollo web y móvil. Actualmente estoy aprendiendo <b>[tecnología]</b>. Aparte de esto, también hago diseño gráfico. En mi tiempo libre disfruto [Escuchar musica] y [Hacer deporte].
+Mi nombre es <b>FERNANDO</b>. Soy un desarrollador apasionado de [EL SALVADOR]. Mis principales áreas de interés son el desarrollo web y móvil. Actualmente estoy aprendiendo <b>[tecnología]</b>. Aparte de esto, también hago diseño gráfico. En mi tiempo libre disfruto [Escuchar musica] y [Hacer deporte].
 </p>
 
 <h2 align="center">Tech Stack</h2>
