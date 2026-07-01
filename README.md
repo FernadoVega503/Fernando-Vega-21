@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/HTML-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://reddit.com/u/tu-usuario"><img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="https://lichess.org/@/tu-usuario"><img src="https://img.shields.io/badge/LICHESS-000000?style=for-the-badge&logo=lichess&logoColor=white"></a>
 </p>
